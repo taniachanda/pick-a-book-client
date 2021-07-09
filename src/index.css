@@ -1,0 +1,42 @@
+body {
+  margin: 0;
+  font-family: "Roboto Slab", serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: Roboto, monospace;
+}
+.b-btn {
+  background-image: linear-gradient(
+    to right,
+    #aa076b 0%,
+    #61045f 51%,
+    #aa076b 100%
+  );
+  border-radius: 10px;
+  /* box-shadow: 0 0 20px #eee; */
+  color: #fff;
+}
+
+.b-btn:hover {
+  background-position: right center;
+  color: rgb(124, 119, 184);
+  text-decoration: none;
+}
+
+.h-book {
+  color: #cc0fc8;
+}
+.hm-text {
+  color: #d9eaf3;
+  font-size: 1rem;
+  font-weight: bold;
+}
+.hpme-page {
+  background-image: url("./images/56.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}

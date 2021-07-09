@@ -1,0 +1,11 @@
+.addBook {
+  height: 100vh;
+}
+
+.heading {
+  color: #072f58;
+  font-weight: bold;
+}
+.uploadImg {
+  margin-left: 8px;
+}
