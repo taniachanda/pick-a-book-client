@@ -13,9 +13,13 @@ https://github.com/taniachanda/pick-a-book-server
 ## Tech Stack
 
 **Client:**
-React, Material UI, React router,
-Axios,
-React Hook Form, Firebase Authentication
+- React
+- Material UI
+- React router
+- Axios
+- React Hook Form
+- Firebase Authentication
+- Heroku
 
 ## Used By
 
